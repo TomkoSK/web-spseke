@@ -1,2 +1,2 @@
 # web-spseke
-WEB repo 2. rocnik spseke subory
+WEB repo 2. rocnik spseke veci
